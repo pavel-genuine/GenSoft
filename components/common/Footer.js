@@ -17,7 +17,7 @@ const Footer = () => {
               </span>
               <br />
               <br />
-              <h3>+1 001 234 5678</h3>
+              {/* <h3>+1 001 234 5678</h3> */}
               <br />
               <button className='button-primary'>Request for quote</button>
             </div>
@@ -61,34 +61,34 @@ const Footer = () => {
               <h3>CONNECT</h3>
               <div className='connect'>
                 <li>
-                  <Link href='/'>
+                  <a href="http://facebook.com/mygensoft" target="_blank" rel="noopener noreferrer">
                     <BsFacebook size={25} />
-                  </Link>
+                  </a>
                 </li>
-                <li>
-                  <Link href='/'>
+                {/* <li>
+                <a href="http://facebook.com/mygensoft" target="_blank" rel="noopener noreferrer">
                     <AiFillBehanceCircle size={25} />
-                  </Link>
-                </li>
+                  </a>
+                </li> */}
                 <li>
-                  <Link href='/'>
+                <a href="http://facebook.com/mygensoft" target="_blank" rel="noopener noreferrer">
                     <AiFillInstagram size={25} />
-                  </Link>
+                  </a>
                 </li>
                 <li>
-                  <Link href='/'>
+                <a href="https://www.linkedin.com/in/pavel-genuine" target="_blank" rel="noopener noreferrer">
                     <AiFillLinkedin size={25} />
-                  </Link>
+                  </a>
                 </li>
               </div>
             </ul>
           </div>
           <div className='legal connect py'>
             <div className='text'>
-              <span>© 2023 THE SEVEN. ALL RIGHTS RESERVED.</span>
+              <span>© 2023 GENSOFT ALL RIGHTS RESERVED.</span>
             </div>
             <div className='connect'>
-              <span>GORKCODER COMPANY</span>
+              {/* <span>GORKCODER COMPANY</span> */}
               <span> &nbsp; | &nbsp; </span>
               <span>TERMS & CONDITIONS</span>
             </div>
