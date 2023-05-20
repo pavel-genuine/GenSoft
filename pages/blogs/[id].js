@@ -10,7 +10,6 @@ const SinglePost = () => {
   const { id } = router.query
   const post = blogdata.find((post) => post.id === parseInt(id))
 
-  // console.log(post.title,'post');
 
   return (
     <>
@@ -52,3 +51,5 @@ const SinglePost = () => {
 }
 
 export default SinglePost
+
+

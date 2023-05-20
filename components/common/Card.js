@@ -10,14 +10,14 @@ export const Card = ({ data, caption, show, path }) => {
           <img src={data.cover} alt={data.title} />
         </div>
         <div className='card-details'>
-          <Link href={`${path}/${data.id}`} className='title-link'>
+          {/* <Link href={`${path}/${data.id}`} className='title-link'> */}
             <TitleSm title={data.title} />
-          </Link>
-          {caption && (
+          {/* </Link> */}
+          {/* {caption && (
             <Link href={`${path}/${data.id}`}>
               {caption} <HiOutlineArrowRight className='link-icon' />
             </Link>
-          )}
+          )} */}
           <div className='flex'>
             <span> {data.catgeory} </span> {data.date && <span> / {data.date}</span>}
           </div>
