@@ -13,7 +13,7 @@ export default function Home() {
         />
         {/* <meta property="og:type" content="video.movie" /> */}
         <meta property="og:url" content="https://gensoft.vercel.app/" />
-        <meta property="og:image" content="https://i.ibb.co/fQ3d2FX/Screenshot-2023-05-20-133730.png" />
+        <meta property="og:image" content="https://i.ibb.co/160XWZq/Screenshot-2023-05-20-141004.png" />
 
       </Head>
       <Hero />

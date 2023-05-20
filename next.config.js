@@ -7,7 +7,7 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'i.ibb.co',
         port: '',
-        pathname: '/fQ3d2FX/Screenshot-2023-05-20-133730.png',
+        pathname: '/160XWZq/Screenshot-2023-05-20-141004.png',
       },]
   }
 }
