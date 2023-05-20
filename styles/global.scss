@@ -24,6 +24,7 @@
     line-height: 115px;
     font-weight: 600;
     margin: $xl-6 0;
+    padding-right: 20px;
   }
   .sub-heading {
     display: flex;
@@ -66,6 +67,7 @@
   .container {
     border-radius: 50px 0 50px 0;
     padding: $xll;
+    // margin: 10px;
     background: rgb(192, 90, 255);
     background: $gradient;
     @include flex(center, space-between, none);
@@ -230,6 +232,7 @@ footer {
       h1 {
         font-size: 60px;
         font-weight: 400;
+        
       }
     }
     .misson-p {
@@ -314,11 +317,38 @@ footer {
 }
 
 @media screen and (max-width: 800px) {
+
+ .hero{
+  .hero-title {
+    font-size:50px;
+    line-height: 75px;
+    font-weight: 600;
+    margin: $xl-6 0;
+    padding-right: 20px;
+  }
+
+  .sub-heading {
+    display: flex;
+    flex-direction: column;
+    // justify-content: center;
+    .titleSm {
+      margin: 0 $xl-1;
+    }
+    span {
+      font-size: 0;
+      line-height: 0;
+      color: $green;
+    }
+  }
+ }
   .banner {
     .container {
+      margin-left: 15px;
+      margin-right: 15px;
       @include flex(center, none, column);
       button {
         margin-top: 50px;
+        // width: 0;
       }
       h1 {
         font-size: 30px;

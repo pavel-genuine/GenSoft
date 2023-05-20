@@ -32,14 +32,14 @@ const Contact = () => {
                 <div className='box'>
                   <FiHelpCircle size={30} className='icons' />
                   {/* <h3> */}
-                    <a href="mailto:mu.joynulabedin@gmail.com"> mu.joynulabedin@gmail.com </a>
+                  <a href="mailto:mu.joynulabedin@gmail.com"> mu.joynulabedin@gmail.com </a>
                   {/* </h3> */}
                   <span>Drop us a line anytime!</span>
                 </div>
                 <div className='box'>
                   <BiUserCircle size={30} className='icons' />
                   {/* <h3> */}
-                    <a href="mailto:mu.joynulabedin@gmail.com"> mu.joynulabedin@gmail.com </a>
+                  <a href="mailto:mu.joynulabedin@gmail.com"> mu.joynulabedin@gmail.com </a>
                   {/* </h3> */}
                   <span>Career at GenSoft</span>
                 </div>
@@ -88,7 +88,10 @@ const Contact = () => {
                   <span>TELL US A BIT ABOUT YOUR PROJECT*</span>
                   <textarea cols='30' rows='10'></textarea>
                 </div>
-                <button className='button-primary'>Submit</button>
+                <a className="button-primary" href="mailto:mu.joynulabedin@gmail.com">
+                  Submit
+                </a>
+
               </form>
             </div>
           </div>

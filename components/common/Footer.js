@@ -10,7 +10,7 @@ const Footer = () => {
         <div className='container'>
           <div className='grid-4'>
             <div className='logo'>
-              <TitleLogo title='GenSoft'  className='logobg' />
+              <TitleLogo title='GenSoft' className='logobg' />
               <br />
               <span>
                 Questions? Reach us
@@ -19,7 +19,9 @@ const Footer = () => {
               <br />
               {/* <h3>+1 001 234 5678</h3> */}
               <br />
-              <button className='button-primary'>Request for quote</button>
+              <a className="button-primary" href="mailto:mu.joynulabedin@gmail.com">
+                Request for quote
+              </a>
             </div>
             <ul>
               <h3>COMPANY</h3>
@@ -71,12 +73,12 @@ const Footer = () => {
                   </a>
                 </li> */}
                 <li>
-                <a href="http://facebook.com/mygensoft" target="_blank" rel="noopener noreferrer">
+                  <a href="http://facebook.com/mygensoft" target="_blank" rel="noopener noreferrer">
                     <AiFillInstagram size={25} />
                   </a>
                 </li>
                 <li>
-                <a href="https://www.linkedin.com/in/pavel-genuine" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.linkedin.com/in/pavel-genuine" target="_blank" rel="noopener noreferrer">
                     <AiFillLinkedin size={25} />
                   </a>
                 </li>
