@@ -20,7 +20,7 @@ const Agency = () => {
               <p className='desc-p'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus eleifend magna, molestie iaculis sem pulvinar eu. Etiam non dui felis. Proin posuere dapibus magna laoreet posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dignissim, sem eget sollicitudin tempor, libero velit aliquam enim, vel egestas tortor ante quis sem.</p>
               <div className='grid-3'>
                 <div className='box'>
-                  <h1 className='indigo'>10+</h1>
+                  <h1 className='indigo'>5+</h1>
                   <h3>Years of experience</h3>
                 </div>
                 <div className='box'>

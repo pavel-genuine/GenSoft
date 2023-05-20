@@ -13,7 +13,7 @@ export default function Home() {
         />
         {/* <meta property="og:type" content="video.movie" /> */}
         {/* <meta property="og:url" content="https://www.imdb.com/title/tt0117500/" /> */}
-        {/* <meta property="og:image" content="https://ia.media-imdb.com/images/rock.jpg" /> */}
+        <meta property="og:image" content="https://i.ibb.co/fQ3d2FX/Screenshot-2023-05-20-133730.png" />
 
       </Head>
       <Hero />

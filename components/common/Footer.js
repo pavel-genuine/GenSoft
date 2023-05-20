@@ -47,7 +47,7 @@ const Footer = () => {
             <ul>
               <h3>SERVICES</h3>
               <li>
-                <Link href='/'>Web Design & Development</Link>
+                <Link href='/'>Web & Mobile App Design & Development</Link>
               </li>
               <li>
                 <Link href='/'>Branding & Creative Services</Link>
