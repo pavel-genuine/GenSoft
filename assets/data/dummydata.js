@@ -174,8 +174,8 @@ export const blogdata = [
 export const teamdata = [
   {
     id: 1,
-    title: "Alexander Black",
-    cover: "../images/t1.jpg",
+    title: "Md Joynul Abedin Pavel",
+    cover: "https://img.freepik.com/free-icon/user_318-159711.jpg",
     post: "FOUNDER, CEO",
   },
   {
