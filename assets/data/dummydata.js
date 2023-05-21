@@ -26,7 +26,7 @@ export const expertise = [
     id: 1,
     title: "Web && Mobile App Design & Development",
     cover: "../images/e1.jpg",
-    desc: [{ text: "Web design" }, { text: "Web development" }, { text: "Custom icons & illustrations" }, { text: "Hosting" }, { text: "Website audit" }],
+    desc: [{ text: "Web && Mobile App design" }, { text: "Web && Mobile App development" }, { text: "Custom icons & illustrations" }, { text: "Hosting" }, { text: "Web && Mobile App audit" }],
   },
   {
     id: 2,
