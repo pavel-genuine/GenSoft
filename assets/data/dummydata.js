@@ -30,15 +30,15 @@ export const expertise = [
   },
   {
     id: 2,
-    title: "Digital Marketing",
+    title: "Automation",
     cover: "../images/e2.jpg",
-    desc: [{ text: "Social media marketing" }, { text: "Marketing campaigns" }, { text: "Markting management" }, { text: "SEO" }],
+    desc: [{ text: "Automation softwares for your business" }, { text: "CRM, HRM, POS, ERP etc" }, { text: "Technological management" }],
   },
   {
     id: 3,
     title: "E-Commerce",
     cover: "../images/e3.jpg",
-    desc: [{ text: "E-Commerce website design" }, { text: "WooCommerce" }, { text: "Content management" }, { text: "Hosting" }],
+    desc: [{ text: "E-Commerce website design" }, { text: "MERN -> ReactJs (NextJs), NodeJs, ExpresJs, MongoDB " },{ text: "GraphQL, Python, GoLang, SQL etc" }, { text: "Content management" }, { text: "Hosting" }],
   },
   {
     id: 4,
