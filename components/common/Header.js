@@ -48,7 +48,7 @@ const Header = () => {
               book a consultation
             </a>
           </nav>
-          <button onClick={() => setOpen(!open)}>{open ? <AiOutlineClose size={25} /> : <RiMenu4Line size={25} />}</button>
+          <button  className="mobileNav" onClick={() => setOpen(!open)}>{open ? <AiOutlineClose className="mobileNav" size={25} /> : <RiMenu4Line className="mobileNav" size={25} />}</button>
         </div>
       </header>
     </>
