@@ -9,7 +9,7 @@ export default function Home() {
         <meta property="og:title" content="GenSoft" />
         <meta
           name="og:description"
-          content="You Ultimate Digital Partner"
+          content="Your Ultimate Tech Partner"
         />
         {/* <meta property="og:type" content="video.movie" /> */}
         <meta property="og:url" content="https://gensoft.vercel.app/" />
