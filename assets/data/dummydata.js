@@ -77,43 +77,68 @@ export const testimonial = [
     desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
   },
 ]
+
+
 export const showcase = [
+  {
+    id: 111,
+    title: "Rainbow Tex",
+    cover: "../images/rainbow2.png",
+    catgeory: "Copmay Website",
+    url:'https://www.rainbowtexbd.com/'
+  },
   {
     id: 1,
     title: "Neon Lights",
     cover: "../images/s1.jpg",
     catgeory: "DIGITAL MARKETING",
+    url:''
+  },
+  {
+    id: 222,
+    title: "Swapan Trade International",
+    catgeory: "WEBSITES",
+    cover: "../images/swapan.png",
+    url:'https://shawpan-trade-int.vercel.app/'
+  },
+  {
+    id: 222,
+    title: "Goti Rentals",
+    catgeory: "RideShareing App",
+    cover: "../images/goti.jpg",
+    url:'https://gotirentals.com'
   },
   {
     id: 2,
     title: "Futuristic Furniture",
-    catgeory: "WEBSITES",
+    catgeory: "Design",
     cover: "../images/s2.jpg",
+    url:''
+  },
+  {
+    id: 333,
+    title: "Islamicademy",
+    cover: "../images/islamic2.png",
+    catgeory: "Ed-tech",
+    url:'https://islamicademy.vercel.app/'
   },
   {
     id: 3,
     title: "Smart Living",
     cover: "../images/s3.jpg",
-    catgeory: "WEBSITES",
+    catgeory: "Design",
+    url:''
   },
+  
   {
-    id: 4,
-    title: "Light Painting",
-    cover: "../images/s4.jpg",
-    catgeory: "BRANDING	",
+    id: 556,
+    title: "Jucundu",
+    cover: "../images/jucundu.png",
+    catgeory: "Movie Streaming platform",
+    url:'https://jucundu.con'
   },
-  {
-    id: 5,
-    title: "Ideabox",
-    cover: "../images/s5.jpg",
-    catgeory: "BRANDING	",
-  },
-  {
-    id: 5,
-    title: "VR Experience",
-    cover: "../images/s6.jpg",
-    catgeory: "WEBSITES	",
-  },
+ 
+ 
 ]
 export const brand = [
   {
@@ -127,6 +152,12 @@ export const brand = [
   {
     id: 3,
     cover: "../images/l3.svg",
+  },
+  {
+    id: 444,
+    title: "Light Painting",
+    cover: "../images/coderaccess.png",
+    catgeory: "BRANDING	",
   },
   {
     id: 4,

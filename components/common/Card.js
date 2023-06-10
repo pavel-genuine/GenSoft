@@ -11,7 +11,9 @@ export const Card = ({ data, caption, show, path }) => {
         </div>
         <div className='card-details'>
           {/* <Link href={`${path}/${data.id}`} className='title-link'> */}
+            <a href={data.url} target="_blank" rel="noopener noreferrer">
             <TitleSm title={data.title} />
+            </a>
           {/* </Link> */}
           {/* {caption && (
             <Link href={`${path}/${data.id}`}>
