@@ -19,11 +19,13 @@ const Contact = () => {
           <div className='content py flex1'>
             <div className='left w-30'>
               <div className='contact-deatils'>
+
                 <div className='box'>
                   <FiHeadphones size={30} className='icons' />
                   <h3>+8801713534019</h3>
                   <span>Call us 24/7</span>
                 </div>
+
                 {/* <div className='box'>
                   <IoLocationOutline size={30} className='icons' />
                   <h3>New York</h3>
@@ -31,16 +33,17 @@ const Contact = () => {
                 </div> */}
                 <div className='box'>
                   <FiHelpCircle size={30} className='icons' />
-                  {/* <h3> */}
+                  <h3>
                   <a style={{textTransform:'lowercase'}} href="mailto:mu.joynulabedin@gmail.com"> mu.joynulabedin@gmail.com </a>
-                  {/* </h3> */}
+                  </h3>
                   <span>Drop us a line anytime!</span>
                 </div>
+                
                 <div className='box'>
                   <BiUserCircle size={30} className='icons' />
-                  {/* <h3> */}
+                  <h3>
                   <a style={{textTransform:'lowercase'}} href="mailto:mu.joynulabedin@gmail.com"> mu.joynulabedin@gmail.com </a>
-                  {/* </h3> */}
+                  </h3>
                   <span>Career at GenSoft</span>
                 </div>
               </div>
