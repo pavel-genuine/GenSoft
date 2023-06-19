@@ -32,14 +32,14 @@ const Contact = () => {
                 <div className='box'>
                   <FiHelpCircle size={30} className='icons' />
                   {/* <h3> */}
-                  <a href="mailto:mu.joynulabedin@gmail.com"> mu.joynulabedin@gmail.com </a>
+                  <a style={{textTransform:'lowercase'}} href="mailto:mu.joynulabedin@gmail.com"> mu.joynulabedin@gmail.com </a>
                   {/* </h3> */}
                   <span>Drop us a line anytime!</span>
                 </div>
                 <div className='box'>
                   <BiUserCircle size={30} className='icons' />
                   {/* <h3> */}
-                  <a href="mailto:mu.joynulabedin@gmail.com"> mu.joynulabedin@gmail.com </a>
+                  <a style={{textTransform:'lowercase'}} href="mailto:mu.joynulabedin@gmail.com"> mu.joynulabedin@gmail.com </a>
                   {/* </h3> */}
                   <span>Career at GenSoft</span>
                 </div>
