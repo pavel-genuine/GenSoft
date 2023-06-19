@@ -84,7 +84,7 @@ export const showcase = [
     id: 111,
     title: "Rainbow Tex",
     cover: "../images/rainbow2.png",
-    catgeory: "Copmay Website",
+    catgeory: "Website",
     url:'https://www.rainbowtexbd.com/'
   },
   {
