@@ -16,10 +16,10 @@ const Hero = () => {
           <h1  className='hero-title'>WE BUILD DIGITAL EXPERIENCES</h1>
 
           <div className='sub-heading'>
-            <TitleSm title='WEBSITE' /> <span>.</span>
+            <TitleSm title='WEB APP' /> <span>.</span>
             <TitleSm title='MOBILE APP' /> <span>.</span>
             <TitleSm title='AUTOMATION' /> <span>.</span>
-            <TitleSm title='BRANDING' />
+          
           </div>
         </div>
       </section>
@@ -45,7 +45,7 @@ const Hero = () => {
       <Expertise />
       <Banner />
       <Testimonial />
-      <ShowCase />
+      {/* <ShowCase /> */}
       <Brand />
 
       <div className='text-center'>

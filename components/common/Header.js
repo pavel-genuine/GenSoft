@@ -26,25 +26,25 @@ const Header = () => {
             <Link href='/' className={activeLink == "/" ? "activeLink" : "none"}>
               Home
             </Link>
-            <Link href='/agency' className={activeLink == "/agency" ? "activeLink" : "none"}>
+            {/* <Link href='/agency' className={activeLink == "/agency" ? "activeLink" : "none"}>
               Agency
-            </Link>
+            </Link> */}
             <Link href='/team' className={activeLink == "/team" ? "activeLink" : "none"}>
               Team
             </Link>
             <Link href='/services' className={activeLink == "/services" ? "activeLink" : "none"}>
               Services
             </Link>
-            <Link href='/showcase' className={activeLink == "/showcase" ? "activeLink" : "none"}>
+            {/* <Link href='/showcase' className={activeLink == "/showcase" ? "activeLink" : "none"}>
               Showcase
-            </Link>
+            </Link> */}
             <Link href='/blogs' className={activeLink == "/blogs" ? "activeLink" : "none"}>
               Blog
             </Link>
             <Link href='/contact' className={activeLink == "/contact" ? "activeLink" : "none"}>
               Contact
             </Link>
-            <a className="button-primary" href="mailto:mu.joynulabedin@gmail.com">
+            <a className="button-primary" href="mailto:care.gensoft@gmail.com">
               book a consultation
             </a>
           </nav>

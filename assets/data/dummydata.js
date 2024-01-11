@@ -80,63 +80,63 @@ export const testimonial = [
 
 
 export const showcase = [
-  {
-    id: 111,
-    title: "Rainbow Tex",
-    cover: "../images/rainbow2.png",
-    catgeory: "Website",
-    url:'https://www.rainbowtexbd.com/'
-  },
-  {
-    id: 1,
-    title: "Neon Lights",
-    cover: "../images/s1.jpg",
-    catgeory: "DIGITAL MARKETING",
-    url:''
-  },
-  {
-    id: 222,
-    title: "Swapan Trade International",
-    catgeory: "WEBSITES",
-    cover: "../images/swapan.png",
-    url:'https://shawpan-trade-int.vercel.app/'
-  },
-  {
-    id: 222,
-    title: "Goti Rentals",
-    catgeory: "RideShareing App",
-    cover: "../images/goti.jpg",
-    url:'https://gotirentals.com'
-  },
-  {
-    id: 2,
-    title: "Futuristic Furniture",
-    catgeory: "Design",
-    cover: "../images/s2.jpg",
-    url:''
-  },
-  {
-    id: 333,
-    title: "Islamicademy",
-    cover: "../images/islamic2.png",
-    catgeory: "Ed-tech",
-    url:'https://islamicademy.vercel.app/'
-  },
-  {
-    id: 3,
-    title: "Smart Living",
-    cover: "../images/s3.jpg",
-    catgeory: "Design",
-    url:''
-  },
+  // {
+  //   id: 111,
+  //   title: "Rainbow Tex",
+  //   cover: "../images/rainbow2.png",
+  //   catgeory: "Website",
+  //   url:'https://www.rainbowtexbd.com/'
+  // },
+  // {
+  //   id: 1,
+  //   title: "Neon Lights",
+  //   cover: "../images/s1.jpg",
+  //   catgeory: "DIGITAL MARKETING",
+  //   url:''
+  // },
+  // {
+  //   id: 222,
+  //   title: "Swapan Trade International",
+  //   catgeory: "WEBSITES",
+  //   cover: "../images/swapan.png",
+  //   url:'https://shawpan-trade-int.vercel.app/'
+  // },
+  // {
+  //   id: 222,
+  //   title: "Goti Rentals",
+  //   catgeory: "RideShareing App",
+  //   cover: "../images/goti.jpg",
+  //   url:'https://gotirentals.com'
+  // },
+  // {
+  //   id: 2,
+  //   title: "Futuristic Furniture",
+  //   catgeory: "Design",
+  //   cover: "../images/s2.jpg",
+  //   url:''
+  // },
+  // {
+  //   id: 333,
+  //   title: "Islamicademy",
+  //   cover: "../images/islamic2.png",
+  //   catgeory: "Ed-tech",
+  //   url:'https://islamicademy.vercel.app/'
+  // },
+  // {
+  //   id: 3,
+  //   title: "Smart Living",
+  //   cover: "../images/s3.jpg",
+  //   catgeory: "Design",
+  //   url:''
+  // },
   
-  {
-    id: 556,
-    title: "Jucundu",
-    cover: "../images/jucundu.png",
-    catgeory: "Movie Streaming platform",
-    url:'https://jucundu.con'
-  },
+  // {
+  //   id: 556,
+  //   title: "Jucundu",
+  //   cover: "../images/jucundu.png",
+  //   catgeory: "Movie Streaming platform",
+  //   url:'https://jucundu.con'
+  // },
  
  
 ]

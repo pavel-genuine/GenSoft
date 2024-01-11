@@ -23,6 +23,7 @@ const Contact = () => {
                 <div className='box'>
                   <FiHeadphones size={30} className='icons' />
                   <h3>+8801713534019</h3>
+                  <h3>+8801876419641</h3>
                   <span>Call us 24/7</span>
                 </div>
 
@@ -34,7 +35,7 @@ const Contact = () => {
                 <div className='box'>
                   <FiHelpCircle size={30} className='icons' />
                   <h3>
-                  <a style={{textTransform:'lowercase'}} href="mailto:mu.joynulabedin@gmail.com"> mu.joynulabedin@gmail.com </a>
+                  <a style={{textTransform:'lowercase'}} href="mailto:care.gensoft@gmail.com"> care.gensoft@gmail.com </a>
                   </h3>
                   <span>Drop us a line anytime!</span>
                 </div>
@@ -91,7 +92,7 @@ const Contact = () => {
                   <span>TELL US A BIT ABOUT YOUR PROJECT*</span>
                   <textarea cols='30' rows='10'></textarea>
                 </div>
-                <a className="button-primary" href="mailto:mu.joynulabedin@gmail.com">
+                <a className="button-primary" href="mailto:care.gensoft@gmail.com">
                   Submit
                 </a>
 

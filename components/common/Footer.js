@@ -19,7 +19,7 @@ const Footer = () => {
               <br />
               {/* <h3>+1 001 234 5678</h3> */}
               <br />
-              <a className="button-primary" href="mailto:mu.joynulabedin@gmail.com">
+              <a className="button-primary" href="mailto:care.gensoft@gmail.com">
                 Request for quote
               </a>
             </div>
