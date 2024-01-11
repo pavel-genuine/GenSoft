@@ -24,7 +24,7 @@ export const home = [
 export const expertise = [
   {
     id: 1,
-    title: "Web && Mobile App Design & Development",
+    title: "Web App Design & Development",
     cover: "../images/e1.jpg",
     desc: [{ text: "Web && Mobile App design" }, { text: "Web && Mobile App development" }, { text: "Custom icons & illustrations" }, { text: "Hosting" }, { text: "Web && Mobile App audit" }],
   },
@@ -36,16 +36,18 @@ export const expertise = [
   },
   {
     id: 3,
-    title: "E-Commerce",
+    title: "Mobile App Design & Development",
     cover: "../images/e3.jpg",
     desc: [{ text: "E-Commerce website design" }, { text: "MERN -> ReactJs (NextJs), NodeJs, ExpresJs, MongoDB " },{ text: "GraphQL, Python, GoLang, SQL etc" }, { text: "Content management" }, { text: "Hosting" }],
   },
   {
-    id: 4,
-    title: "Branding & Creative Services",
-    cover: "../images/e4.jpg",
-    desc: [{ text: "Visual identity" }, { text: "Branding for social media" }, { text: "Custom illustrations" }],
+    id: 2,
+    title: "System design",
+    cover: "../images/e2.jpg",
+    desc: [{ text: "Automation softwares for your business" }, { text: "CRM, HRM, POS, ERP etc" }, { text: "Technological management" }],
   },
+  
+ 
 ]
 export const testimonial = [
   {
