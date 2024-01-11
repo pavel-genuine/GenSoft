@@ -178,7 +178,7 @@ export const blogdata = [
   {
     id: 1,
     title: "Ligula vel urna accumsan placerat",
-    cover: "../images/b1.webp",
+    cover: "https://i.ibb.co/Vj4h5ss/download.jpg",
     catgeory: "INDUSTRY",
     date: "JANUARY 12, 2023",
   },
@@ -199,7 +199,7 @@ export const blogdata = [
   {
     id: 4,
     title: "What eleifend posuere tincidunt",
-    cover: "../images/b4.jpg",
+    cover: "https://i.ibb.co/xCF8SYq/triangles-neon-lights-frame-74563-1013.jpg",
     catgeory: "EVENTS",
     date: "OCTOBER 8, 2023",
   },
