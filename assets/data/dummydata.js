@@ -222,6 +222,18 @@ export const teamdata = [
     post: "Lead Developer",
   },
   {
+    id: 5509,
+    title: "Foysal Ahmad",
+    cover: "https://static.toiimg.com/thumb/resizemode-4,msid-76729750,imgsize-249247,width-720/76729750.jpg",
+    post: "Software Developer",
+  },
+  {
+    id: 334323,
+    title: "M A Momin",
+    cover: "https://i.kinja-img.com/gawker-media/image/upload/t_original/ijsi5fzb1nbkbhxa2gc1.png",
+    post: "Software Developer",
+  },
+  {
     id: 44,
     title: "Fuzael Ibn Elius",
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOTdXtCSZF9KcRWvBcQFEAU8L1b1aSVh0MkOfmDppXrcdcnGsuE83fYb51VsUN9Epx3y8&usqp=CAU",
@@ -240,6 +252,18 @@ export const teamdata = [
     post: "Software Developer",
   },
   {
+    id: 4214,
+    title: "Fahim Rimon",
+    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOTdXtCSZF9KcRWvBcQFEAU8L1b1aSVh0MkOfmDppXrcdcnGsuE83fYb51VsUN9Epx3y8&usqp=CAU",
+    post: "Frontend Developer",
+  },
+  {
+    id: 5235,
+    title: "Shahalam Sharif",
+    cover: "https://pbs.twimg.com/media/EYVxlOSXsAExOpX.jpg",
+    post: " Full-stack Software Developer",
+  },
+  {
     id: 66,
     title: "Safeen Shahdat",
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGncJl8idbwAqfO8_rhstd3gIYM1a7XPUqLA&usqp=CAU",
@@ -247,7 +271,7 @@ export const teamdata = [
   },
   {
     id: 77,
-    title: "Md Deban ",
+    title: "Deban Dutta ",
     cover: "https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2019/12/9-Best-Online-Avatars-and-How-to-Make-Your-Own-for-Free-image1-5.png",
     post: "Marketing Executive",
   },

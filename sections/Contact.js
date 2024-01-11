@@ -40,13 +40,7 @@ const Contact = () => {
                   <span>Drop us a line anytime!</span>
                 </div>
                 
-                <div className='box'>
-                  <BiUserCircle size={30} className='icons' />
-                  <h3>
-                  <a style={{textTransform:'lowercase'}} href="mailto:care.gensoft@gmail.com"> care.gensoft@gmail.com </a>
-                  </h3>
-                  <span>Career at GenSoft</span>
-                </div>
+              
               </div>
               {/* <ul>
                 <li className='icon'>
