@@ -43,7 +43,7 @@ const Contact = () => {
                 <div className='box'>
                   <BiUserCircle size={30} className='icons' />
                   <h3>
-                  <a style={{textTransform:'lowercase'}} href="mailto:mu.joynulabedin@gmail.com"> mu.joynulabedin@gmail.com </a>
+                  <a style={{textTransform:'lowercase'}} href="mailto:care.gensoft@gmail.com"> care.gensoft@gmail.com </a>
                   </h3>
                   <span>Career at GenSoft</span>
                 </div>
