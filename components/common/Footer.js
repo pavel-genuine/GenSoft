@@ -25,9 +25,9 @@ const Footer = () => {
             </div>
             <ul>
               <h3>COMPANY</h3>
-              <li>
+              {/* <li>
                 <Link href='//agency'>About agency</Link>
-              </li>
+              </li> */}
               <li>
                 <Link href='/team'>Our team</Link>
               </li>
