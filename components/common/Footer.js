@@ -90,11 +90,7 @@ const Footer = () => {
                     <AiFillInstagram size={25} />
                   </a>
                 </li>
-                <li>
-                  <a href="https://www.linkedin.com/in/pavel-genuine" target="_blank" rel="noopener noreferrer">
-                    <AiFillLinkedin size={25} />
-                  </a>
-                </li>
+
               </div>
             </ul>
           </div>
