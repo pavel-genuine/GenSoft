@@ -12,7 +12,7 @@ const Banner = () => {
           </div>
           <div style={{ marginTop: '40px' }}>
             <a className="button-primary" href="mailto:care@gen-soft.dev">
-              Request a call-back
+              Request a call
             </a>
           </div>
         </div>

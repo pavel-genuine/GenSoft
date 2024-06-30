@@ -44,6 +44,9 @@ const Footer = () => {
                 <Link href='/'>Demo design system</Link>
               </li> */}
               <li>
+                <Link href='/about'>About us</Link>
+              </li>
+              <li>
                 <Link href='/contact'>Contact us</Link>
               </li>
             </ul>
