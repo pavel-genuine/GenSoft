@@ -21,11 +21,9 @@ const SinglePost = () => {
                     <div className='heading-title'>
                         <br />
                         <Title title={'About Us'} className='title-bg' />
-                        <div className='img py'>
-                            <img src={post?.cover} alt={post?.title} width='100%' height='100%' className='round' />
-                        </div>
+
                         <div className='desc'>
-                            <TitleSm title='Intro' />
+                            {/* <TitleSm title='Intro' /> */}
                             <p>
                                 GenSoft, a pioneering software firm dedicated to delivering innovative technology solutions that drive success and transform industries. We have grown into a trusted partner for businesses of all sizes, offering a diverse portfolio of products and services designed to meet the unique challenges of the modern digital landscape.
 
