@@ -31,6 +31,9 @@ const Footer = () => {
               <li>
                 <Link href='/team'>Our team</Link>
               </li>
+              <li>
+                <Link href='/services'>Our services</Link>
+              </li>
               {/* <li>
                 <Link href='/showcase'>Showcase</Link>
               </li>
@@ -41,7 +44,7 @@ const Footer = () => {
                 <Link href='/'>Demo design system</Link>
               </li> */}
               <li>
-                <Link href='/contact'>Contact</Link>
+                <Link href='/contact'>Contact us</Link>
               </li>
             </ul>
             <ul>
@@ -80,7 +83,7 @@ const Footer = () => {
                   </a>
                 </li> */}
                 <li>
-                  <a href="http://facebook.com/mygensoft" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.instagram.com/mygensoft/" target="_blank" rel="noopener noreferrer">
                     <AiFillInstagram size={25} />
                   </a>
                 </li>
