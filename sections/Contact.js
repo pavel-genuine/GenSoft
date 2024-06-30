@@ -21,10 +21,33 @@ const Contact = () => {
               <div className='contact-deatils'>
 
                 <div className='box'>
-                  <FiHeadphones size={30} className='icons' />
-                  <h3>+8801713534019</h3>
-                  <h3>+8801876419641</h3>
-                  <span>Call us 24/7</span>
+
+                  <h3>
+                    Dhaka (remotely) : <br />
+                    House-06, Road-32/A, Sector-07,
+                    <br />
+                    Uttara, Dhaka-1230,
+                    Bangladesh.
+                    <br />
+                    +8801876419641 (BD)
+                    <br />
+                    <a style={{ textTransform: 'lowercase' }} href="mailto:care@gen-soft.dev"> care@gen-soft.dev </a>
+
+                  </h3>
+
+                  <h3>
+                    New York: <br />
+                    4400 Vestal Parkway East
+                    Binghamton, NY 13902.
+
+                    <br />
+                    +1 (607) 313-9245 (USA)
+
+                    <br />
+                    <a style={{ textTransform: 'lowercase' }} href="mailto:service@gen-soft.dev"> service@gen-soft.dev </a>
+
+                  </h3>
+
                 </div>
 
                 {/* <div className='box'>
@@ -33,14 +56,11 @@ const Contact = () => {
                   <span>990 Madison Ave, Midtown Manhattan, 2th Floor, NY 10022</span>
                 </div> */}
                 <div className='box'>
-                  <FiHelpCircle size={30} className='icons' />
-                  <h3>
-                  <a style={{textTransform:'lowercase'}} href="mailto:care.gensoft@gmail.com"> care.gensoft@gmail.com </a>
-                  </h3>
+
                   <span>Drop us a line anytime!</span>
                 </div>
-                
-              
+
+
               </div>
               {/* <ul>
                 <li className='icon'>
@@ -86,7 +106,7 @@ const Contact = () => {
                   <span>TELL US A BIT ABOUT YOUR PROJECT*</span>
                   <textarea cols='30' rows='10'></textarea>
                 </div>
-                <a className="button-primary" href="mailto:care.gensoft@gmail.com">
+                <a className="button-primary" href="mailto:care@gen-soft.dev">
                   Submit
                 </a>
 

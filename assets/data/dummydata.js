@@ -38,7 +38,7 @@ export const expertise = [
     id: 3,
     title: "Mobile App Design & Development",
     cover: "../images/e3.jpg",
-    desc: [{ text: "E-Commerce website design" }, { text: "MERN -> ReactJs (NextJs), NodeJs, ExpresJs, MongoDB " },{ text: "GraphQL, Python, GoLang, SQL etc" }, { text: "Content management" }, { text: "Hosting" }],
+    desc: [{ text: "E-Commerce website design" }, { text: "MERN -> ReactJs (NextJs), NodeJs, ExpresJs, MongoDB " }, { text: "GraphQL, Python, GoLang, SQL etc" }, { text: "Content management" }, { text: "Hosting" }],
   },
   {
     id: 2,
@@ -46,8 +46,8 @@ export const expertise = [
     cover: "../images/e2.jpg",
     desc: [{ text: "Automation softwares for your business" }, { text: "CRM, HRM, POS, ERP etc" }, { text: "Technological management" }],
   },
-  
- 
+
+
 ]
 export const testimonial = [
   {
@@ -131,7 +131,7 @@ export const showcase = [
   //   catgeory: "Design",
   //   url:''
   // },
-  
+
   // {
   //   id: 556,
   //   title: "Jucundu",
@@ -139,8 +139,8 @@ export const showcase = [
   //   catgeory: "Movie Streaming platform",
   //   url:'https://jucundu.con'
   // },
- 
- 
+
+
 ]
 export const brand = [
   {
@@ -267,17 +267,17 @@ export const teamdata = [
   },
   {
     id: 66,
-    title: "Safeen Shahdat",
+    title: "Hossain Shahdat",
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGncJl8idbwAqfO8_rhstd3gIYM1a7XPUqLA&usqp=CAU",
     post: "Marketing Executive",
   },
   {
     id: 77,
-    title: "Deban Dutta ",
+    title: "Dev Dutta ",
     cover: "https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2019/12/9-Best-Online-Avatars-and-How-to-Make-Your-Own-for-Free-image1-5.png",
     post: "Marketing Executive",
   },
- 
+
   {
     id: 8,
     title: "Join our team!",

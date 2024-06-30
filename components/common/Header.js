@@ -44,11 +44,11 @@ const Header = () => {
             <Link href='/contact' className={activeLink == "/contact" ? "activeLink" : "none"}>
               Contact
             </Link>
-            <a className="button-primary" href="mailto:care.gensoft@gmail.com">
+            <a className="button-primary" href="mailto:care@gen-soft.dev">
               book a consultation
             </a>
           </nav>
-          <button  className="mobileNav" onClick={() => setOpen(!open)}>{open ? <AiOutlineClose className="mobileNav" size={25} /> : <RiMenu4Line className="mobileNav" size={25} />}</button>
+          <button className="mobileNav" onClick={() => setOpen(!open)}>{open ? <AiOutlineClose className="mobileNav" size={25} /> : <RiMenu4Line className="mobileNav" size={25} />}</button>
         </div>
       </header>
     </>
