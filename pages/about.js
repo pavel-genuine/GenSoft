@@ -27,9 +27,9 @@ const SinglePost = () => {
                         <div className='desc'>
                             <TitleSm title='Intro' />
                             <p>
-                                GenSoft, a pioneering software firm dedicated to delivering innovative technology solutions that drive success and transform industries. Founded in [Year], we have grown into a trusted partner for businesses of all sizes, offering a diverse portfolio of products and services designed to meet the unique challenges of the modern digital landscape.
+                                GenSoft, a pioneering software firm dedicated to delivering innovative technology solutions that drive success and transform industries. We have grown into a trusted partner for businesses of all sizes, offering a diverse portfolio of products and services designed to meet the unique challenges of the modern digital landscape.
 
-                                At [Company Name], our team of skilled professionals combines expertise in software development, user experience design, and cutting-edge technologies to create solutions that are not only powerful but also user-friendly. Our commitment to quality, reliability, and customer satisfaction sets us apart in the competitive software industry.
+                                At GenSoft, our team of skilled professionals combines expertise in software development, user experience design, and cutting-edge technologies to create solutions that are not only powerful but also user-friendly. Our commitment to quality, reliability, and customer satisfaction sets us apart in the competitive software industry.
                             </p></div>
                     </div>
 
