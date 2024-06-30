@@ -19,7 +19,7 @@ const Footer = () => {
               <br />
               {/* <h3>+1 001 234 5678</h3> */}
               <br />
-              <a className="button-primary" href="mailto:care.gensoft@gmail.com">
+              <a className="button-primary" href="mailto:care@gen-soft.dev">
                 Request for quote
               </a>
             </div>
@@ -47,14 +47,23 @@ const Footer = () => {
             <ul>
               <h3>SERVICES</h3>
               <li>
-                <Link href='/services'>Web & Mobile App Design & Development</Link>
+                <Link href='/services'>Mobile App Design & Development</Link>
               </li>
               <li>
-                <Link href='/services'>Branding & Creative Services</Link>
+                <Link href='/services'>Web App Design & Development</Link>
               </li>
+              {/* <li>
+                <Link href='/services'>Branding & Creative Services</Link>
+              </li> */}
 
               <li>
-                <Link href='/services'>E-Commerce</Link>
+                {/* <Link href='/services'>E-Commerce</Link> */}
+              </li>
+              <li>
+                <Link href='/services'>Automation</Link>
+              </li>
+              <li>
+                <Link href='/services'>Robotics</Link>
               </li>
             </ul>
             <ul>
@@ -89,8 +98,8 @@ const Footer = () => {
             </div>
             <div className='connect'>
               {/* <span>GORKCODER COMPANY</span> */}
-              <span> &nbsp; | &nbsp; </span>
-              <span>TERMS & CONDITIONS</span>
+              {/* <span> &nbsp; | &nbsp; </span> */}
+              {/* <span>TERMS & CONDITIONS</span> */}
             </div>
           </div>
         </div>
