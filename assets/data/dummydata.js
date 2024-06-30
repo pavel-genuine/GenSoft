@@ -214,7 +214,7 @@ export const teamdata = [
   {
     id: 22,
     title: "Rahim Hossain",
-    cover: "https://digismak.com/wp-content/uploads/2022/03/How-to-create-your-own-3D-avatar-for-the-Facebook.jpg",
+    cover: "https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2019/12/9-Best-Online-Avatars-and-How-to-Make-Your-Own-for-Free-image1-5.png",
     post: "Lead Data Scientist",
   },
   {
@@ -271,12 +271,7 @@ export const teamdata = [
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGncJl8idbwAqfO8_rhstd3gIYM1a7XPUqLA&usqp=CAU",
     post: "Marketing Executive",
   },
-  {
-    id: 77,
-    title: "Dev Dutta ",
-    cover: "https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2019/12/9-Best-Online-Avatars-and-How-to-Make-Your-Own-for-Free-image1-5.png",
-    post: "Marketing Executive",
-  },
+
 
   {
     id: 8,
