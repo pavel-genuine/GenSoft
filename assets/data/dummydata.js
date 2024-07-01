@@ -158,7 +158,7 @@ export const brand = [
   {
     id: 444,
     title: "Light Painting",
-    cover: "../images/coderaccess.png",
+    cover: "../images/ntmc.png",
     catgeory: "BRANDING	",
   },
   {
@@ -166,12 +166,33 @@ export const brand = [
     cover: "../images/l4.svg",
   },
   {
-    id: 5,
+    id: 51,
     cover: "../images/l5.svg",
   },
   {
-    id: 6,
+    id: 5,
+    cover: "../images/gorun.png",
+  },
+  {
+    id: 61,
     cover: "../images/l6.svg",
+  },
+  {
+    id: 611,
+    cover: "../images/spider-digital-red.png",
+  },
+
+  {
+    id: 6,
+    cover: "../images/lebupay.png",
+  },
+  {
+    id: 62,
+    cover: "../images/gd.png",
+  },
+  {
+    id: 63,
+    cover: "../images/ml.png",
   },
 ]
 export const blogdata = [
